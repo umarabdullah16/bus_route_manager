@@ -1,0 +1,4 @@
+*.txt filter=lfs diff=lfs merge=lfs -text
+
+GTFS/*.txt filter=lfs diff=lfs merge=lfs -text
+bus_data.db filter=lfs diff=lfs merge=lfs -text
